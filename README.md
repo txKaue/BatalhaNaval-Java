@@ -2,8 +2,8 @@
 
 ### The board:
 
-The board is a 5x5 array with one character. 
-The character are: "~", "0" and "X".
+The board is a 5x5 array made with characters. 
+The characters are: "~", "0" and "X".
 
 - "~" : Represents de ocean
 - "0" : Represents a wrong shot
